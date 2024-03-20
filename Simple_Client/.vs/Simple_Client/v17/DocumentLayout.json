@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A5A194-980E-41FD-BF43-CF8869B60630}|Simple_Client\\Simple_Client.vcxproj|E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Client\\Simple_Client\\Simple_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3A5A194-980E-41FD-BF43-CF8869B60630}|Simple_Client\\Simple_Client.vcxproj|solutionrelative:Simple_Client\\Simple_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simple_Client.cpp",
+              "DocumentMoniker": "E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Client\\Simple_Client\\Simple_Client.cpp",
+              "RelativeDocumentMoniker": "Simple_Client\\Simple_Client.cpp",
+              "ToolTip": "E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Client\\Simple_Client\\Simple_Client.cpp",
+              "RelativeToolTip": "Simple_Client\\Simple_Client.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T11:01:14.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

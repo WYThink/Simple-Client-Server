@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D1326E-6880-4882-A049-1F9E6947F5FA}|Simple_Server\\Simple_Server.vcxproj|E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Server\\Simple_Server\\Simple_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82D1326E-6880-4882-A049-1F9E6947F5FA}|Simple_Server\\Simple_Server.vcxproj|solutionrelative:Simple_Server\\Simple_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simple_Server.cpp",
+              "DocumentMoniker": "E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Server\\Simple_Server\\Simple_Server.cpp",
+              "RelativeDocumentMoniker": "Simple_Server\\Simple_Server.cpp",
+              "ToolTip": "E:\\Visual Studio 2022 Project\\Windows Networking\\Simple_Server\\Simple_Server\\Simple_Server.cpp",
+              "RelativeToolTip": "Simple_Server\\Simple_Server.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T07:49:14.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
